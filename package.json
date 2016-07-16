@@ -1,0 +1,22 @@
+{
+  "name": "parsepdf-backend",
+  "version": "1.0.0",
+  "description": "This will parse YTL pdf:s(hopefully) into workable quality next-gen hi-gi JSON files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMantere/parsepdf-backend.git"
+  },
+  "author": "Oskari Mantere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMantere/parsepdf-backend/issues"
+  },
+  "homepage": "https://github.com/OMantere/parsepdf-backend#readme",
+  "dependencies": {
+    "pdf2json": "^1.1.6"
+  }
+}
