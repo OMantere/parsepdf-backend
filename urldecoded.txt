@@ -1,0 +1,1262 @@
+ENGLISH
+WRITTEN PART
+PITKÄ  OPPIMÄÄRÄ
+LÅNG  LÄROKURS
+14.3.2014
+YLIOPPILASTUTKINTOLAUTAKUNTA
+STUDENTEXAMENSNÄMNDEN
+READING COMPREHENSION
+Read texts 1.1a–1.1h and then answer questions 1–25. Choose the 
+best 
+alternative for each item and mark your answers 
+on the optical 
+answer sheet in pencil
+.
+Nature’s City
+Few cities if any can claim a closer connection to nature than Cape 
+Town – South Africa’s Mother City. Full of vibrant and multicultural 
+street life reflecting the fantastic colors and diversity of the flora and 
+fauna surrounding the city center, Cape Town is unique in representing 
+the world’s only city set entirely within a national park. As a World 
+Heritage site with as much biodiversity as a tropical rain forest, Cape 
+Town values and cherishes its extraordinary wildlife and truly lives 
+in 
+harmony with nature. For more information, visit
+www.capetown.travel
+. 
+National Geographic
+, August 2012
+Genius Idea: Soup’s On
+“There’s a fierce inventiveness to Detroit,” says artist Kaye Daughill. 
+“People here take ownership of a problem and work to find solutions 
+that improve residents’ lives.” In order to help Detroiters keep 
+doing just this, Ms Daughill and a friend cofounded Detroit Soup, a 
+philanthropic supper club. Each month four local groups present ideas 
+to diners who pay $5 to attend; the attendees then discuss the ideas 
+over soup, salad, bread, and pie, and decide which project will receive 
+the evening’s proceeds. Since 2010 Detroit Soup has raised from $700 
+to $1,000 per dinner for more than 20 community projects – such as 
+a bicycle education workshop, or the design and manufacture of a 
+coat for the homeless that converts to a sleeping bag – and the typical 
+number of diners has grown from 20 to 200. “Right now in the current 
+economic crisis Detroit in many ways feels like an underdog,” says 
+Amy Kaherl, Detroit Soup’s current coordinator. “Someone needs to 
+care for the city and its people, and that someone could be any one 
+of us.”                                                       
+The Oprah Magazine
+, November 2012
+A Fat Chance
+Danish farmers, retailers and shoppers whooped with joy when the 
+government announced the abolition of one of its most hated taxes: 
+1.1
+1.1a
+1.1b
+1.1c
+a tariff on saturated fats, imposed just over a year ago. The tax was 
+undoubtedly well intentioned. Higher prices for unhealthy foods 
+would reduce consumption and improve public health; obesity levels 
+and cardiovascular disease would fall; strains on health-care budgets 
+would be eased.
+Yet in practice, the world’s first fat tax proved to be a cumbersome 
+and time-consuming chore with undesirable side effects. The tax’s 
+advocates wanted to hit things like potato crisps and hot dogs, but the 
+tax was also applied to high-end fare like speciality cheeses. Critics 
+saw the tax as the worst excesses of a nanny state. Bakers fretted 
+over the fat content of cupcakes. Pig farmers said their famous bacon 
+would cost more than imports. This meant higher prices and lower 
+sales.
+Not everybody was happy to see the fat tax go. The Danish medical 
+association accused politicians of putting the economy before public 
+health. And even though some doctors acknowledged that the tax was 
+a blunt instrument, they insisted that the time was too short to be able 
+to gauge its significance. Unless and until sufficient data emerge, the 
+effectiveness of the world’s first fat tax will remain buried under its 
+own controversy.                                        
+The Economist
+, November 17, 2012
+From the Editor: Out of Bounds
+It isn’t possible to pinpoint exactly who is most responsible for 
+humankind’s best invention of all time. I am, of course, talking about 
+science – the process that lets us test our assumptions, gather evidence 
+and analyze the results. That process has propelled advances in basic 
+research and practical applications for everything from extending our 
+lives to expanding our physical and mental horizons.
+Around the third century B.C.E. Aristotle and other ancient Greek 
+philosophers put us on the right track, employing measurement to 
+help learn about the world. Muslim scholars later pioneered the basics 
+of testing and observation, the foundations of the scientific method, 
+perhaps more than 1,000 years ago. Among the others who helped 
+to refine the methods were Roger Bacon, who fostered the use of 
+inductive reasoning in the 1200s; Galileo, who put Bacon’s ideas 
+into practice in the late 1500s and early 1600s; and René Descartes, 
+Francis Bacon and Isaac Newton, who built on the method shortly 
+before and during the Enlightenment of the 1700s – to name a mere 
+handful.
+1.1d
+In our single-topic issue, “Beyond the Limits of Science,” we 
+celebrate just how far we have come as a species using that rational 
+system. A series of apparent barriers now stands before us in our 
+current 
+life 
+span: 
+the 
+physical 
+body’s 
+performance, 
+individual 
+intellectual capacity, engineering capabilities and even collective 
+knowledge. How will we move past them? In this special edition, 
+we provide a mind-expanding armchair journey to the edges – and 
+beyond – of what is and will be possible.
+For instance, in “Can We Keep Getting Smarter?” journalist 
+Tim Folger writes about the Flynn effect, a kind of Moore’s law for 
+measures of intelligence. In a world that prizes logic and abstraction, 
+a positive feedback loop has led to our continuous progress in mental 
+adaptation and the invention of new technologies. “How We All Will 
+Live to Be 100,” by staff editor Katherine Harmon, examines efforts 
+to lead longer, healthier lives by attacking our ancient enemies of 
+illness and weakness. Casting aside the idea of mortality altogether, 
+contributing editor Davide Castelvecchi describes “Questions for the 
+Next Million Years” – research we could do if an individual’s career 
+or life span were no obstacle.
+As Sir Isaac Newton famously put it: “If I have seen further, it is 
+by standing on the shoulders of giants.” Following his model, we can 
+use the process of science to exceed today’s boundaries. Perhaps our 
+only true limit is the human imagination itself.  
+Scientific American
+, September 2012
+Rolling Robo-Worm
+Stop, drop, and roll. Firefighters teach this to kids, but, for some 
+species of caterpillars, it’s a defense reflex. Confronted by a predator, 
+the larvae spring into the air, assume a spiral shape, and hit the ground 
+at top speed to wheel away from danger. The motion is thought to be 
+one of the fastest wheeling behaviors in nature.
+Hoping the technique will enable next-generation robots to go 
+places that conventional crawling ones can’t, researchers at Tufts 
+University have built a soft-bodied robot that imitates the spiraling 
+actions of larval 
+Pleuroptya ruralis
+, a species from the UK. Made of 
+silicone rubber, the robot’s four-inch-long body is under-girded by 
+metal coils that contract into a circle when electrified, propelling the 
+contraption forward at nearly eight inches a second. 
+1.1e
+As in nature, the ballistic rolling motion can send the body in 
+whichever direction. However, says leading researcher Huai-Ti Lin, 
+the robot’s ability to crawl or roll, depending on terrain, could one 
+day have practical applications in environmental monitoring, building 
+inspection, or even disaster search and rescue.
+National Geographic
+, September 2012
+Material World
+Damon Carson, 40, is a self-described tightwad. The tattered desk 
+chair in his Denver office was pulled from a dumpster – a decade ago. 
+He drives a used ’99 Chevy Silverado and wears thrift-store clothes. 
+For several years, Carson ran a garbage company in the ritzy Colorado 
+ski towns of Vail and Breckenridge, which regularly brought him to 
+a local landfill. There he often saw brand-new windows and cabinets 
+amid the rubble, and sometimes rescued these items from the pile. “It 
+was heartbreaking to see perfectly good things about to be buried,” 
+he says.
+In 2010, eight years after Carson sold his trash company, an 
+artist friend in the billboard industry just happened to mention that 
+the massive ads, removed from their boards, made great drop cloths 
+for painting. The wheels in Carson’s head began to turn. He found a 
+few billboards for sale, and contacted friends in the agriculture and 
+construction industries to see if they had any use for them. Thanks 
+to his intervention, the billboards were reborn as tarps to cover hay 
+and building materials. “We quickly ran out,” says Carson, who was 
+so encouraged that he started reaching out to more industries – from 
+bowling pin manufacturers to poultry farmers – to inquire about 
+purchasing hard-to-recycle items.
+Soon he’d founded Repurposed Materials, a company that turns 
+would-be trash into valuable commodities. Torn-down billboards 
+become pond liners, projection screens, even makeshift Slip ‘N 
+Slides. 
+Synthetic 
+turf 
+from 
+football 
+fields 
+is 
+refashioned 
+into 
+cushioning for egg-laying chickens. And when one customer intuited 
+that street-sweepers’ brushes, stood on end, could be back scratchers 
+for livestock, Carson sold two to the Bronx Zoo for its rhinoceros 
+pen. “We’re helping industries pool their knowledge,” he says. “And 
+our customers spend far less than they would buying similar products 
+new.”
+1.1f
+As we speak, Carson spends his days devouring trade magazines 
+and visiting businesses to examine what they’re throwing away. “This 
+is my second foray into the waste stream of America,” he says with a 
+laugh. “Round one, I was burying things in the landfill. Round two, 
+I’m trying to keep them out.”                          
+The Oprah Magazine
+, July 2012
+Haunting reads
+More than 60 years after her death at Auschwitz, Irène Némirovsky 
+found posthumous success with 
+Suite Française
+, which sold more than 
+3 million copies in 2004. Now her first novel, 
+The Misunderstanding
+, is 
+being reissued. Already displaying her major talent, this elegant book 
+charts a universal topic by describing the tragic demise of a passionate 
+relationship. The two novels are part of a planned sequence which was 
+originally supposed to comprise five novels set in the occupied Paris 
+where she lived at the time. In July 1942, having just completed the 
+first two novels of the series, Ms Némirovsky was arrested as a Jew 
+and transported to Pithiviers and then Auschwitz, where she died. The 
+notebook containing the two novels was preserved by her daughters 
+but not examined until 1998.                       
+Good Housekeeping
+, October 2012
+Grimm Tales: For Young and Old
+The most striking feature of the fairy tales of the brothers Grimm is 
+their anarchy. A creature in a tree, half-boy, half-hedgehog, plays the 
+bagpipes, mounted on a cockerel. A golden bird takes wing with a 
+chain in one claw, red slippers in the other, and a millstone around its 
+neck. Beautiful or grotesque, the mad poetry of these tales is often 
+delightfully funny too.
+For the collection in this new book, Philip Pullman has translated 
+50 of the best; old favourites such as “Hansel and Gretel” and “Snow 
+White”, as well as many less well known. This collection is a real 
+pleasure both to examine closely and browse through. Brevity and 
+clarity, he says, were his guiding principles – to which he added wit 
+and invention. A fairy tale is not a text, he explains. Rather, it is a 
+transcription of something told and told again.
+Mr Pullman insists these tales are stories first, not allegories. The 
+Grimms first published their collection in 1812, having gathered them 
+1.1g
+1.1h
+together from a variety of sources, some better than others. Those who 
+read aloud will be heartened. This is the kind of writing that stands 
+up to years of bedtime repetition. Not that bedtime is necessarily the 
+best time to be exposed to it. Little boys have their heads chopped 
+off (and stuck on again), dead men converse as they swing from the 
+gallows, and bisected bodies drop down the chimney. But the stories 
+bring comfort too. The wicked get their comeuppance, their due 
+reward, and the starving their banquets. And, anyway, as Mr Pullman 
+remarks, these are not people, as in novels, but cut-outs – flat, fixed 
+and whizzing through their adventures.
+In his introduction Mr Pullman explains that he aims to make 
+the stories “as clear as water”. In this he succeeds, though here and 
+there his own ironic presence is unmistakable. Mr Pullman’s best 
+appearances are in the notes, which are often as entertaining as the 
+stories themselves. The note to “Thousandfurs” even proposes another 
+ending, a gruesome coda, an alternative ending, told with gusto, 
+involving severed limbs. “I think that would work quite well,” Mr 
+Pullman adds, deadpan – appearing to be serious.
+The Economist
+, October 27, 2012
+Suomenkieliset koulut:
+Lue seuraavat tekstit ja vastaa niiden pohjalta
+ lyhyesti suomeksi 
+kysymyksiin a–e. Kirjoita vastauksesi 
+selvällä käsialalla 
+kielikokeen 
+vastauslomakkeen 
+A-puolelle
+. 
+Svenska skolor:
+Läs följande texter och svara sedan 
+kort på svenska 
+på frågorna a–e. 
+Skriv svaren 
+med
+tydlig handstil på sida A 
+av svarsblanketten för 
+språkproven.
+British riots
+In August 2011, a wave of riots engulfed England. Without warning 
+or much apparent reason, public order and the rule of law collapsed. It 
+all started in Tottenham, a multicultural area of North London, where 
+the police stopped and shot dead a young black man in a series of 
+raids on organised drug gangs. Over the next few nights, riots even 
+1.2
+spread to some other major cities, such as Birmingham, Liverpool and 
+Manchester. There was arson, violence and looting, leaving behind 
+a chaos unseen since the Second World War. What happened next? 
+After nearly a week of national rioting, the teenage looters returned 
+to hanging around the street corners and the shopping malls they’d 
+just been smashing up. 
+How did Britain respond? In the immediate aftermath of the 
+disturbances, the airwaves were thick with the wisdom of politicians.  
+Parliament was recalled – a measure normally reserved for wartime. 
+There was much discussion but no action. The government set up 
+a panel of inquiry, reaching conclusions as inoffensive as the riots 
+were dramatic: poor parenting, lack of support for families, weak 
+communities, lack of confidence in the police, materialism. However, 
+“they” did do one thing: there was an enormous number of court 
+trials, resulting in much more serious punishments than usual and 
+much more quickly than usual.
+How about the political conclusions? Left and right always read 
+what they want into riots. Most people, though, don’t know what left 
+and right mean anymore. After all, they live in an age in which the 
+concept of class has disappeared from politics. Is it surprising then that 
+the social glue sticks less well than it did; that the social order seems 
+a much more random settlement than an ideal one? All in all, what is 
+really remarkable is not that it happened but how dysfunctionally and 
+ineffectually the British establishment reacted to it. You see, many still 
+today yearn for the “golden” past. – Siôn Simon
+Newsweek
+, August 20, 2012
+a)
+Mikä tapahtuma johti mellakoihin, ja miten ne loppuivat? 
+Vilken händelse ledde till oroligheterna och hur slutade de?
+b)
+Millä tavalla oikeuslaitoksen ja muun julkisen vallan toimet 
+erosivat toisistaan toisen kappaleen mukaan?
+På vilket sätt skiljde sig rättsväsendets och den övriga offentliga 
+maktens åtgärder från varandra enligt det andra stycket?
+c)
+Mitä artikkelin kirjoittaja pitää syynä mellakoihin, ja mitä hän 
+ihmettelee? 
+Vad anser skribenten vara orsaken till oroligheterna och vad 
+förundrar han sig över? 
+(continued on page 12)
+Nature’s City
+ 1.
+Why is nature mainly emphasized in this text?
+A
+It makes the city’s residents keen environmentalists
+B
+It discourages the city from investing in conservation
+ C 
+It sets the city apart from all others
+ 2.
+What is especially noteworthy about this national park?
+A
+It sports more diversity of species than equivalent parks
+B
+It embraces the built-up areas as well
+ C 
+It features terrain atypical of this area
+ 3.
+Which style of writing does this text feature?
+A
+A research-based argumentative style
+B
+A value-based informative style
+ C 
+An authority-based descriptive style
+Genius Idea: Soup’s On
+ 4.
+According to Ms Daughill, what seems to be typical of 
+Detroiters?
+A
+Taking initiative to make a difference in city life
+B
+Relying on outside help to make the city more amiable
+ C 
+Maintaining enthusiasm for the core city
+ 5.
+How does Detroit Soup come up with new ideas?
+A
+By relying on professional advice
+B
+By drawing on the opinions of participants
+ C 
+By targeting various interest groups
+ 6.
+What would make an alternative heading for this text?
+A
+A significant amount of work required to raise money 
+in inner cities
+B
+A professional approach to raising money by throwing 
+dinner parties
+ C 
+A new way to raise money for various city-transforming 
+causes
+1.1a
+1.1b
+A Fat Chance
+ 7.
+What did the Danish government decide to do concerning a piece 
+of legislation?
+A
+To formulate it
+B
+To reissue it
+ C 
+To eliminate it
+ 8.
+What made the implementation of the tax so complicated?
+A
+The diversity of the products it affected
+B
+The loss of income it inflicted on consumers
+ C 
+The increase in obesity rates it caused
+ 9.
+What did medical practitioners point out concerning this issue?
+A
+In a little over a year actual results could be gained on the 
+long-term effects of the tax
+B
+In just one year enough data were gathered to prove the 
+insignificance of the tax
+ C 
+On the basis of just one year the impact of the tax can 
+hardly be accurately evaluated
+From the Editor: Out of Bounds
+10.
+Why does the editorial most likely begin by emphasizing the 
+process-like development of science?
+A
+To emphasize that research projects based on previous ones 
+rarely succeed
+B
+To highlight that previous research projects necessarily 
+surpass new ones
+ C 
+To point out that current research projects tend to draw 
+from previous ones
+11.
+What type of reading experience does the editorial primarily 
+promise?
+A
+One that offers food for thought
+B
+One that hinders thinking capabilities
+ C 
+One that lists conversational topics
+12.
+What do the three articles listed (by Folger, Harmon and 
+Castelvecchi) have in common?
+A
+They focus on known conventions
+B
+They feature educated speculation
+ C 
+They deal with definite certainties
+1.1c
+1.1d
+13.
+Why does this editorial close with a quote from Newton?
+A
+To assert individuals’ general independence
+B
+To underline individuals’ drug dependence
+ C 
+To emphasize individuals’ deep interdependence
+Rolling Robo-Worm
+14.
+What is characteristic of the new invention?
+A
+It runs on a minimal amount of energy
+B
+It artificially replicates movements
+ C 
+It is specialized in specific terrain types
+15.
+What is its possible drawback?
+A
+Apparent unpredictability
+B
+Obvious lack of versatility
+ C 
+Evident inefficiency
+Material World
+16.
+What primarily characterizes Mr Carson’s outlook on life?
+A
+Trying to avoid conspicuous consumption
+B
+Attempting to promote beneficial habits
+ C 
+Ensuring that the environment is protected
+17.
+What initially inspired the founding of Mr Carson’s new company?
+A
+His own idea that came to mind
+B
+A piece of advice he asked for
+ C 
+A tip volunteered by accident
+18.
+For the most part, how does Mr Carson currently create ideas?
+A
+By drawing on the previous experiences of others
+B
+By relying on relevant data he constantly collects
+ C 
+By observing the practices of other similar companies
+19.
+Which one of the following would make an alternative heading for 
+this text?
+A
+A recycling enthusiast finds various new uses for big-
+business waste
+B
+A forty-something settles for conventional recycling to turn 
+waste into profit
+ C 
+A recycling specialist starts from scratch and reuses a method 
+for waste disposal
+1.1e
+1.1f
+Haunting reads
+20.
+What is primarily implied by stating that Ms Némirovsky’s first 
+novel is being reissued?
+A
+Its mediocre style appeals to readers
+B
+Its topic focuses on a unique case
+ C 
+Its contents somehow defy time
+21.
+What seems most striking about the specifics given concerning 
+Ms Némirovsky?
+A
+Her ability to deal with her family life in writing
+B
+Her ability to publish a number of texts while detained
+ C 
+Her ability to remain productive under threatening 
+circumstances
+Grimm Tales: For Young and Old
+22.
+Why does the writer say the tales are anarchic?
+A
+Because of their imagery
+B
+Because of the age of the stories
+ C 
+Because of the lame topics covered
+23.
+What does the critic say is particularly enjoyable about this 
+collection of tales?
+A
+The stories read well
+B
+The plots are engaging
+ C 
+The characters are convincing
+24.
+According to the critic, in what ways are the tales’ contents 
+gratifying?
+A
+They lack retaliation and punishment
+B
+They offer retribution and compensation
+ C 
+Their characters are lifelike and natural
+25.
+What is the critic’s conclusion regarding Mr Pullman’s editorial 
+work?
+A
+It leaves a lot to be desired
+B
+It comes across as rather too clever
+ C 
+It has been accomplished with flying colors
+1.1g
+1.1h
+Warm clothing
+A popular American winter clothing company favoured by everyone 
+from Barack Obama to BBC reporters had previously claimed that 
+its down-filled coats were ethically produced. Recently, animal rights 
+campaigners found that the source of the clothing firm’s supplier was 
+in fact Hungarian farms where geese are artificially fattened in order 
+to make pâte de foie gras from their oversized livers. For a long time,
+the company had claimed that its source for goose down – the soft 
+layer of feathers also used in pillows – was ethically sound and not the 
+by-product of force-feeding. As a result of this revelation, consumers 
+have already seen the French delicacy taken off the shelves at all major 
+British supermarkets. And a campaign by activists and celebrities is to 
+be expected.                                                 
+www.telegraph.co.uk (August 28, 2012)
+d)
+Mikä vaateyritykseen liittyvä seikka on tullut ilmi, ja minkä 
+reaktion se on aiheuttanut?
+Vad har avslöjats om klädfirman och vilken reaktion har 
+avslöjandet 
+haft?
+So you 
+can
+ make a pizza healthy…
+With sizzling pepperoni and oozing cheese slathered on an often 
+greasy base, it doesn’t tick many boxes for the health-conscious. But 
+now scientists claim to have created the world’s first nutritionally 
+balanced pizza – with a special ingredient. These Eat Balanced pizzas, 
+containing a significant part
+of an adult’s recommended daily intake of 
+calories, protein and carbohydrates, are made with seaweed, far better-
+known as a basic ingredient in sushi. A tiny amount of the seaweed, 
+from the Hebrides, is added to the dough to act as a natural alternative 
+to seasoning.                                                            
+Daily Mail
+, July 3, 2012
+e)
+Mitä uutta ainesosaa pizzassa käytetään, ja millä tavalla pizza on 
+terveellisempää?
+Vilken ny ingrediens används i pizzan och på vilket sätt är 
+pizzan mera hälsosam?
+The Fifth Child
+The little town they lived in had changed 
+in the five years they had been here. 
+Brutal 
+incidents 
+and 
+crimes, 
+__26__
+shocking everyone, were now 
+__27__
+. 
+Gangs of youth 
+__28__
+ around certain 
+cafés and street-ends and owed respect 
+to 
+__29__
+. The house next door 
+__30__
+three times: the Lovatts’ not yet, but then 
+there were always people about. At the 
+end of the road there was a telephone 
+box that had been vandalized so often the 
+authorities had 
+__31__
+: it stood unusable. 
+These days, Harriet would not dream of 
+walking at night by herself, but earlier it 
+would not have occurred to her 
+__32__
+anywhere she pleased at any time of the 
+day or night. There was an ugly edge 
+on events: more and more it seemed 
+that two peoples lived in England, not 
+one – enemies hating each other, who 
+could not hear what the other said. The 
+young Lovatts made themselves read the 
+papers, and watch the News on television, 
+__33__
+ their instinct was to do neither. 
+26.
+A
+generally
+B
+sometimes
+ C 
+once
+D
+seldom
+27.
+A
+out of place
+B
+ground-breaking
+ C 
+customary
+D
+commonplace
+28.
+A
+hung
+B
+hang
+ C 
+have hung
+D
+were hung
+29.
+A
+everyone
+B
+no one
+ C 
+anyone
+D
+none
+30.
+A
+had burgled
+B
+had been burgled
+ C 
+has been burgled
+D
+was burgled
+31.
+A
+turned down
+B
+made up
+ C 
+paid off
+D
+given up
+32.
+A
+to go
+B
+ever to go
+ C 
+not to go
+D
+either to go
+33.
+A
+though
+B
+provided
+ C 
+since
+D
+where
+GRAMMAR AND VOCABULARY
+Read the texts carefully and for each item choose the alternative that 
+best
+ fits the context. Mark your answers (26–50) 
+on the optical answer 
+sheet in pencil
+.
+2.1
+At least they ought to know what 
+__34__
+on outside their fortress, their kingdom, 
+in which three precious children were 
+nurtured, and where so many people came 
+to 
+__35__
+ themselves in safety, comfort, 
+kindness.       
+Doris Lessing, 
+The Fifth Child
+,
+If I ruled the world
+If I ruled the world, my first act would be 
+to 
+__36__
+ the private motor car. I regard 
+the motor vehicle (and yes, I have one) 
+as a disastrous invention. It has 
+__37__
+waste 
+to 
+our 
+cities 
+and 
+polluted 
+our 
+environment and kills the best part of 
+half a million people a year worldwide. 
+My aim would be to return to that brief 
+golden age when the bicycle was king, 
+when every little town and many villages 
+were connected to the railway network 
+and when our inner cities were 
+__38__
+.
+It 
+is 
+not 
+an 
+impossible 
+dream. 
+I 
+knew 
+Hanoi, 
+the 
+capital 
+of Vietnam, 
+before 
+the 
+coming 
+of 
+market 
+forces. 
+__39__
+ twenty years ago it was a city 
+of a million bicycles. There were only a 
+few rattling trams, a handful of military 
+vehicles and a number of aged Volgas. 
+There were no traffic lights. At 
+__40__
+the 
+bicycles 
+intermingled, 
+emerging 
+miraculously unscathed. Today, Hanoi is 
+a city of Honda motorcycles, flowing in 
+all directions, along pavements, even into 
+__41__
+ traffic. Very soon one in ten of 
+34.
+A
+did go
+B
+went
+ C 
+would go
+D
+is going
+35.
+A
+reverse
+B
+emerge
+ C 
+converse
+D
+immerse
+36.
+A
+make up for
+B
+do away with
+ C 
+stick up for
+D
+put in for
+37.
+A
+laid
+B
+lain
+ C 
+lauded
+D
+lied
+38.
+A
+inhibited
+B
+inhabitation
+ C 
+habitable
+D
+habitat
+39.
+A
+For
+B
+Until
+ C 
+Not until
+D
+From
+40.
+A
+junctions
+B
+juxtapositions
+ C 
+zebra crossings
+D
+pavements
+41.
+A
+opposite
+B
+oncoming
+ C 
+confronting
+D
+overtaking
+these Hondas will be replaced by a motor 
+car and when that happens, nothing will 
+move. At which point the Vietnamese 
+authorities will make their next mistake: 
+they will start 
+__42__
+ of their historic 
+city to build super-highways and in due 
+course they will be stuck, too.
+The next wave of my magic wand 
+would 
+be 
+to 
+uninvent 
+plastic. 
+It 
+was 
+invented in 1909 and, with the exception of 
+small quantities that have been consumed 
+by fire, just about every piece of plastic 
+__43__
+ still exists in some form or other 
+somewhere on the planet. In the UK we 
+have begun recycling plastic, but that is 
+an inefficient, energy-intensive process, 
+only capturing a small percentage of the 
+plastic we use daily. Much of the rest 
+ends up in landfills. 
+__44__
+ attempt to 
+deal with plastic will require us to take 
+on 
+the 
+supermarkets, 
+where 
+virtually 
+every purchase comes swathed in plastic. 
+__45__
+ the slogans, most supermarket 
+chains have 
+__46__
+ refused to change 
+their ways. What is required is political 
+will: 
+__47__
+of 
+the 
+excessive 
+use 
+of 
+plastic by the supermarkets or anyone 
+else.
+My third target would be to abolish 
+factory farming. I more or less stopped 
+eating meat two decades ago because 
+I simply could not 
+__48__
+ that factory 
+42.
+A
+developing 
+derelict parts
+B
+degenerating old 
+forms
+ C 
+deleting huge 
+areas
+D
+demolishing 
+large strips
+43.
+A
+never produced
+B
+ever produced
+ C 
+ever producing
+D
+producing
+44.
+A
+No
+B
+Some
+ C 
+Any
+D
+Further
+45.
+A
+In spite
+B
+Besides
+ C 
+Instead of
+D
+Despite
+46.
+A
+retrospectively
+B
+resolutely
+ C 
+decisively
+D
+reverentially
+47.
+A
+penal taxation
+B
+temporary 
+suspension
+ C 
+total destruction
+D
+inadequate 
+equipment
+48.
+A
+verify the 
+procedures
+B
+rationalise the 
+rearing 
+ C 
+defend the 
+methodologies
+D
+justify the 
+mistreatment
+farmers inflict upon their animals. Of 
+course, this too is more complicated than 
+it seems. 
+__49__
+ to abolish the crudest 
+abuse in one country or even across the 
+entire EU solves nothing, if supermarkets 
+are allowed to carry on importing cheap 
+meat from countries that handle their farm 
+animals poorly. The only viable way is to 
+ban the import of meat from countries 
+that do not enforce decent standards. On 
+second thoughts, why wouldn’t we all 
+just turn into vegetarians? If we 
+__50__
+to feed millions of livestock, there would 
+be more for humans to eat.
+– Chris Mullin
+Prospect
+, August 2012
+49.
+A
+Merely
+B
+Definitely
+ C 
+Completely
+D
+Hardly
+50.
+A
+wouldn’t have
+B
+weren’t able
+ C 
+didn’t have
+D
+needn’t
+2.2
+The Eddystone
+When a gale drives Henry Winstanley’s 
+ship, 
+Constant
+, onto the Eddystone Rock 
+in 1695, it’s too much. It’s the second 
+ship Winstanley 
+__1__
+ to the rock in a 
+year and he decides, 
+__2__
+, to erect a 
+lighthouse. And 
+__3__
+ begins the story 
+of an 
+__4__
+ wonder of the world.
+1.  
+lose
+2.  omalla kustannuksellaan /
+     på egen kostnad
+3.
+4.  
+engineer
+Fill in the blanks using suggestions where given. Write your answers 
+in the given order 
+on side B
+ of the answer sheet. Write each answer 
+on a separate line. Please write 
+clearly
+.
+The Eddystone 
+__5__
+ fifteen miles 
+out to sea. 
+__6__
+, just one steep-sided, 
+jagged rock is visible, ten paces wide. 
+__7__
+ anything in such a place is as 
+ambitious, in the seventeenth century, 
+__8__
+ putting a man on the moon. 
+__9__
+to state control, no guiding precedents 
+exist on how a lighthouse should look. 
+Yet, 
+__10__
+, in 1698 a dim candle shines 
+out from a sort of nautical gazebo. The 
+following 
+year 
+Winstanley 
+doubles 
+its height, to over 100 
+__11__
+. It’s an 
+immediate triumphant success. For five 
+years no vessel wrecks on the Eddystone. 
+__12__
+, Winstanley boasts that his dearest 
+wish is to witness, from his masterpiece, 
+‘the greatest storm there ever was.’ Fate 
+brutally complies, and he is there on the 
+night of the Great Storm of 1703. 
+__13__
+remains of the tower and Winstanley are a 
+few 
+__14__
+ lumps of iron. Two days later, 
+the Eddystone 
+__15__
+ its next ship.
+The Wrong Kind of Snow
+(Antony Woodward & Robert Penn), London 2008
+ 5.
+sijaitsee / befinner sig
+ 6.
+Nousuveden aikaan /
+Vid flod
+ 7.
+Build
+ 8. 
+ 9.
+Ennen/Före
+10.
+vastoin kaikkia odo
+-
+tuksia / mot alla för
+-
+väntningar
+11.
+jalka/fot
+12.
+Delight
+13.
+Kaikki, mikä / Allt vad
+14.
+twist
+15.
+vaatii/kräver
+PRODUCTION
+Write a composition of between 150 and 250 words on one of 
+the following topics. Please write 
+clearly 
+on the notebook paper 
+(konseptipaperi/konceptpapper) provided. Follow the guidance. Count 
+the number of words in your essay and write it at the end.
+1.
+Eternal art
+A group of artists has launched an international online campaign 
+for teenagers to promote “all things cultural”. Your text should 
+deal with one item of fine arts, music, literature, architecture, 
+photography, etc. that has really touched you. Describe this work 
+of art and explain why it is so important to you. The best texts will 
+be published online.
+2.
+Blogs range from cooking and fashion to literature, economics and 
+science. You name it, and somebody’s writing a blog on it! What 
+would your blog be about? Start your own blog in English in order  
+to reach readers all over the world. Write about something that is 
+close to your heart. Remember to create an attractive heading/
+name for your blog.
+3.
+All work and no play?
+What will the world be like in 2030? How will science and 
+technology have changed the way we live and work, or will 
+humankind have gone back to basics? Which types of skills 
+will
+ be needed in the future?
+Write an essay in answer to these 
+questions as an entry in a 
+Science Digest 
+writing contest. 
+4.
+Does Finland give back?
+The Organisation for Economic Co-operation and Development
+(
+OECD
+) lists countries by the amount of money they give to 
+development assistance as a percentage of their gross national 
+product
+(see Table 1 below). Discuss the aid in light of these 
+figures comparing Finland’s contribution with that of a few other 
+countries. Is Finland giving enough to poor people in foreign 
+countries? Give grounds for your opinions.
+Country
+Giving
+Country
+Giving
+Sweden
+1.12%
+Spain
+0.46%
+Norway
+1.06%
+Germany
+0.35%
+Luxembourg
+1.04%
+Austria
+0.30%
+Denmark
+0.88%
+United States
+0.21%
+Finland
+0.54%
+Greece
+0.19%
+Ireland
+0.54%
+South Korea
+0.10%
+Table 1. 
+The OECD listing of countries featuring the percentage of aid given 
+per countries’ gross national product.
+KOKEEN PISTEITYS  /  POÄNGSÄTTNINGEN AV PROVET
+__________________________________________________________
+Tehtävä
+Osioiden 
+Pisteitys
+Paino-
+Enint. 
+Arvostelu-
+määrä
+kerroin*
+lomakkeen
+sarake
+__________________________________________________________
+Uppgift
+Antal del-
+Poäng-
+Koefficient*
+Max. 
+Kolumn på
+uppgifter 
+sättning
+bedömnings-
+blanketten
+__________________________________________________________
+1.1a–h
+25  x
+1/0 p.
+|  x 2
+50 p.
+1.2
+5  x
+2–0 p.
+|  x 2
+20 p.
+2.1
+25  x
+1/0 p.
+|  x 1
+25 p.
+2.2
+15  x
+1–0 p.
+|  x 1
+15 p.
+99 p.
+_________
+______
+     Yht./Tot.
+209 p.
+*
+Painotus tapahtuu lautakunnassa. 
+Viktningen görs av nämnden.
