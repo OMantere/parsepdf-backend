@@ -7,4 +7,4 @@ This will parse YTL pdf:s(hopefully) into workable quality next-gen hi-fi JSON f
 
 ## Installation
 
-Run `npm install` and you should be good to go. Run the project using `node .` in the project dir.
+Run `npm install` and you should be good to go. Run the project using `node .` in the project directory.
