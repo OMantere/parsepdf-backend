@@ -36,7 +36,30 @@
           "text": ""
         }
       },
-      "two": {}
+      "two": {
+        "questions": {
+          "a": {
+            "fi": "Mikä tapahtuma johti mellakoihin, ja miten ne loppuivat? ",
+            "sv": "Vilken händelse ledde till oroligheterna och hur slutade de?"
+          },
+          "b": {
+            "fi": "Millä tavalla oikeuslaitoksen ja muun julkisen vallan toimet erosivat toisistaan toisen kappaleen mukaan?",
+            "sv": "På vilket sätt skiljde sig rättsväsendets och den övriga offentliga maktens åtgärder från varandra enligt det andra stycket?"
+          },
+          "c": {
+            "fi": "Mitä artikkelin kirjoittaja pitää syynä mellakoihin, ja mitä hän ihmettelee? ",
+            "sv": "Vad anser skribenten vara orsaken till oroligheterna och vad förundrar han sig över? "
+          },
+          "d": {
+            "fi": "Mikä vaateyritykseen liittyvä seikka on tullut ilmi, ja minkä reaktion se on aiheuttanut?",
+            "sv": "Vad har avslöjats om klädfirman och vilken reaktion har avslöjandet haft?"
+          },
+          "e": {
+            "fi": "Mitä uutta ainesosaa pizzassa käytetään, ja millä tavalla pizza on terveellisempää?",
+            "sv": "Vilken ny ingrediens används i pizzan och på vilket sätt är pizzan mera hälsosam?"
+          }
+        }
+      }
     },
     "grammar_and_vocabulary": {
       "one": {
